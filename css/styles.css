@@ -8,6 +8,7 @@
 }
 
 body{
+   background: linear-gradient(to top,rgb(218, 214, 214),black);
    background-color: rgb(218, 214, 214);
 }
 
